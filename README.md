@@ -3,7 +3,7 @@
 Um projeto básico de um relógio que pega os dados da sua região para mostrar a hora exata de onde você está <br>
 O projéto foi desenvolvido com HTML, CSS e um pouco de JavaScript
 
-confira você mesmo: doug-relogio.vercel.app
+confira você mesmo: https://doug-relogio.vercel.app
 
 um pequeno Preview do projeto:
 
